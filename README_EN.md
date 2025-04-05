@@ -52,6 +52,13 @@ This is the ITStudio 24th batch collaboration project. The project team consists
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Streab">
+                    <img src="https://avatars.githubusercontent.com/u/204110273?v=4" width="100;" alt="Streab"/>
+                    <br />
+                    <sub><b>Streab</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/morning-glory-qu">
                     <img src="https://avatars.githubusercontent.com/u/149868617?v=4" width="100;" alt="morning-glory-qu"/>
                     <br />
